@@ -119,6 +119,16 @@ This concentration represents a major risk since losing one major client can sig
 
 ![Pareto Analysis](images/Summary.png)
 ---
+## Project Structure
+
+├── README.md
+├── images
+│   ├── overview.png
+│   ├── F&B_analysis.png
+│   ├── accounts_analysis.png
+│   └── pareto_analysis.png
+
+---
 
 ## ⚠️ Disclaimer
 
