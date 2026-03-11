@@ -51,7 +51,7 @@ It also shows the **business mix between Corporate and OTA bookings**.
 
 ### Dashboard Preview
 
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](images/Overview.png)
 
 ---
 
